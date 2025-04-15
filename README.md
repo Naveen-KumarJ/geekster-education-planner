@@ -26,7 +26,7 @@ A minimal and responsive study planner built using React and Tailwind CSS. This 
 
 ## 🔗 Live Demo
 
-[Geekster Education Planner]()
+[Geekster Education Planner](https://geekster-education-planner-tool.vercel.app/)
 
 ---
 **Built as part of Geekster learning journey 💓**
